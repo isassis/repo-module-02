@@ -5,3 +5,4 @@ Repositório criado durante o módulo 2 do treinamento de git e github.
 
 * **Nome:** Igor Semphoski de Assis.
 * **Idade:** 20 anos.
+* **Mora em:** Blumenau
